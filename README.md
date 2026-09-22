@@ -8,8 +8,8 @@
 
 | Detail | Information |
 |---|---|
-| **Name** | Aditya Dnyaneshwar Garkal |
-| **PRN** | Enter your PRN |
+| **Name** | Shruti Shrishailya Halkude |
+| **PRN** | 126UAD2040 |
 | **Class / Division** | SY – C |
 | **Programme** | B.Tech Artificial Intelligence & Data Science |
 | **Semester** | III |
@@ -96,47 +96,3 @@ OOP-Cpp-Units-I-VI/
 - **Program 02: Web Server Log Analysis** — `program02.cpp`
 - **Program 03: Student Grade Analytics** — `program03.cpp`
 
-## 🛠️ How to Run
-
-### Using g++
-
-```bash
-g++ -std=c++17 program01.cpp -o program01
-./program01
-```
-
-Change the filename and executable name for the program you want to run.
-
-### Using VS Code
-
-1. Open the required unit folder.
-2. Open the `.cpp` file.
-3. Compile using a C++ compiler configured with C++17.
-4. Run the generated executable.
-
-## 🎯 Learning Goals
-
-- Understand OOP concepts through practical C++ examples.
-- Practice writing independent, reusable programs.
-- Connect syllabus concepts with real-world software applications.
-- Build a clean GitHub portfolio showing progress across all six units.
-
-## 📌 Notes
-
-- Programs are organized **unit-wise** for easy evaluation and submission.
-- The program names correspond to the real-time applications in the provided course material.
-- Review and understand each program before submitting or presenting it.
-- Update the PRN field above before publishing the repository.
-
-## 🌟 Mini-Projects Covered in the Course Material
-
-- **Unit I:** Smart Home Device Manager
-- **Unit II:** Vehicle Fleet / related inheritance-based management concept
-- **Unit III:** Media Player with Polymorphic Controls
-- **Unit IV:** File-based persistence and reporting concepts
-- **Unit V:** Generic Dynamic Array with Error Handling
-- **Unit VI:** E-Commerce Shopping Cart Using STL
-
----
-
-⭐ **Learning C++ one unit at a time — from OOP fundamentals to STL.**
